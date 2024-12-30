@@ -92,7 +92,6 @@ contract Payroll {
     // function getEmployeeIndex(address ) view internal returns(uint256){
         
 
-
     //     return index
     // }
     // TODO: Add functionality to deactivate an employee (e.g., termination or leave)
